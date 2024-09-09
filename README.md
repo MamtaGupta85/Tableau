@@ -36,7 +36,9 @@ The dashboard aims to figure out how many total EV vehicles are already running 
 ## WAY FORWARD
 
 1) To furthen the analysis, it is required that data collection encompasses study of the factors which directly impacts the sales of EV like availability of charging station, time taken to charge the vehicle.
-2) 
+2) It is no hidden that every buyer cares about the cost of their new vehicles. A recent study showed 67% of would-be purchasers claim cost is a primary concern. This is one of those aspects of EV adoption that has additional, external factors playing a role. While the cost of producing EVs is expected to drop, until manufacturers believe EVs will sell at comparable rates to ICE vehicles, the upfront cost will likely remain higher. The above study didn't take into account the prices of the models, which could have further revealed if the EV customers are price sensitive or not. Therefore, to broaden the scope of analysis, it is required that data is collected about prices as well.
+3) The EV industry takes manufacturing costs as one of the important considerations when developing and producing vehicles as it allows them to understand if the production will bring economies of scale to them. Lack of this factor in the analysis takes away the opportunity to figure out current situation about manufacturing costs in EV market.
+
 
 
 
