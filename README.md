@@ -29,9 +29,16 @@ The dashboard aims to figure out how many total EV vehicles are already running 
 
 ![image](https://github.com/user-attachments/assets/e92a2779-a5f0-4326-a011-5c1bb62e5a58)
 
-6)
+6) Through the tabular analysis, it is found that the maximum models that were sold were of BEV as compared to PHEV and these are all TESLA produced BEV which showed the highest number of vehicles. This again showed the continued dominance of TESLA in EV market.
 
 ![image](https://github.com/user-attachments/assets/a81a2656-1c05-4293-8370-12221a497c8b)
+
+## WAY FORWARD
+
+1) To furthen the analysis, it is required that data collection encompasses study of the factors which directly impacts the sales of EV like availability of charging station, time taken to charge the vehicle.
+2) 
+
+
 
 
 
