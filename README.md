@@ -21,9 +21,11 @@ The dashboard aims to figure out how many total EV vehicles are already running 
 
 ![image](https://github.com/user-attachments/assets/1cde123a-b53e-4395-b364-7a8fa13a1627)
 
-4) It is found that amongst the top 10 vehicles by companies, tesla is dominating the EV market.
+4) It is found that amongst the top 10 vehicles by companies, tesla is dominating the EV market clinching around half of the market share i.e. 52.70%. Whereas the rest portion of market is divided into small shares by many competitors, like NISSAN having 10.32% share, CHEVROLET 9.19% and so on. This showed that tesla has already built a strong position in the EV market, gained large customer base and their confidence, making it quite difficult for the new players to enter the market.
 
 ![image](https://github.com/user-attachments/assets/3ba79b21-0c5b-439e-b2ff-1d6028d61e7f)
+
+5)
 
 ![image](https://github.com/user-attachments/assets/e92a2779-a5f0-4326-a011-5c1bb62e5a58)
 
