@@ -17,9 +17,11 @@ The dashboard aims to figure out how many total EV vehicles are already running 
    
 ![image](https://github.com/user-attachments/assets/32df448c-9882-441b-acf0-5af191ae5c0a)
 
-3) Distribution of EV vehicles amongst different US states revealed that WA (Washington) has the maximum number of EV 
+3) Distribution of EV vehicles amongst different US states revealed that WA (Washington) has the maximum number of EV, around 150k as opposed to all other states. This shows that residents of WA has maximum likelihood to purchase EV than a normal car. It can be because either they are price sensitive or the 
 
 ![image](https://github.com/user-attachments/assets/1cde123a-b53e-4395-b364-7a8fa13a1627)
+
+4) 
 
 ![image](https://github.com/user-attachments/assets/3ba79b21-0c5b-439e-b2ff-1d6028d61e7f)
 
