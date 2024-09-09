@@ -25,9 +25,11 @@ The dashboard aims to figure out how many total EV vehicles are already running 
 
 ![image](https://github.com/user-attachments/assets/3ba79b21-0c5b-439e-b2ff-1d6028d61e7f)
 
-5)
+5) A Clean Alternative Fuel Vehicle (CAFV) is a vehicle that meets certain fuel and electric-only range requirements as defined by House Bill 2042. Examining the EV market as per CAFV eligibility, it is revealed that 46.34% of the total EV vehicles fell under CAFV eligibility unknown, followed by 41.81% of total EV are CAFV eligible and the rest 11.85% are CAFV not eligible.
 
 ![image](https://github.com/user-attachments/assets/e92a2779-a5f0-4326-a011-5c1bb62e5a58)
+
+6)
 
 ![image](https://github.com/user-attachments/assets/a81a2656-1c05-4293-8370-12221a497c8b)
 
