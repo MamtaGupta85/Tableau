@@ -1,15 +1,17 @@
 This repository contains all the projects curated by me with the help of data visualization tool, i.e., Tableau.
 
-# Electric Vehicle Data Analysis
+# PROJECTS AND THEIR EXPLANATION:
+
+## 1) Electric Vehicle Data Analysis
 
 As per the latest reports, it is estimated that the Electric car market around the world will grow from USD 396.4 billion in 2024 to around 620 billion USD in 2030, showcasing a 7.7% CAGR. This high growth potential of EV market makes it a lucrative source of business as the world started to become conscious of the degrading affects of the petroleum driven cars. Because of these reasons, it becomes important to study and understand the underlying trends and patterns in EV market. This is what I have tried to achieve through this dynamic dashboard as well. 
 
-## KEY OBJECTIVES:
+### KEY OBJECTIVES:
 The dashboard aims to figure out how many total EV vehicles are already running on streets and how the total market is being acquired within its market players. Through the analysis, attempts are being made to reveal how EV sales are concenterated in different regions of USA or which company and their model is dominating the market. Furthermore, it attempts to figure out the past decadal trend, on the basis of which we tried to understand if the reports hold true to our analysis as well. In short, the objective of this dashboard is to understand the EV market sales and trends through its every aspect.
 
 ![image](https://github.com/user-attachments/assets/21bff875-583a-4ee4-be26-4a455d6efe9d)
 
-## KEY INSIGHTS: 
+### KEY INSIGHTS: 
 
 1) The first key takeaway was that around 150k EV vehicles have been already in the market, out of which 77.6% EV vehicles were battery electric vehicles (BEV) whereas rest 22.4% were plug-in electric vehicles. Through this distribution, it can be said that maximum of the EV users prefers Battery electric vehicles which in turn helps to meet the desired motive behind the launch of EV, which is reduction in consumption of petroleum based vehicles.
    
@@ -33,7 +35,7 @@ The dashboard aims to figure out how many total EV vehicles are already running 
 
 ![image](https://github.com/user-attachments/assets/a81a2656-1c05-4293-8370-12221a497c8b)
 
-## WAY FORWARD
+### WAY FORWARD
 
 1) To furthen the analysis, it is required that data collection encompasses study of the factors which directly impacts the sales of EV like availability of charging station, time taken to charge the vehicle.
 2) It is no hidden that every buyer cares about the cost of their new vehicles. A recent study showed 67% of would-be purchasers claim cost is a primary concern. This is one of those aspects of EV adoption that has additional, external factors playing a role. While the cost of producing EVs is expected to drop, until manufacturers believe EVs will sell at comparable rates to ICE vehicles, the upfront cost will likely remain higher. The above study didn't take into account the prices of the models, which could have further revealed if the EV customers are price sensitive or not. Therefore, to broaden the scope of analysis, it is required that data is collected about prices as well.
