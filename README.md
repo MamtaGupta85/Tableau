@@ -11,10 +11,13 @@ The dashboard aims to figure out how many total EV vehicles are already running 
 
 ## KEY INSIGHTS: 
 
-1) The first and foremost analysis drawn from the dashboard was that around 150k EV vehicles have been already in the market, out of which around 77.6% EV vehicles were battery electric vehicles (BEV) whereas rest around 22.4% were plug-in electric vehicles. Through this distribution, it can be said that maximum of the EV users prefers Battery electric vehicles which in turn helps to meet the desired motive behind the launch of EV, which is reduction in consumption of petroleum based vehicles.
-2) Upon examining the decadal trend of the number of EV in market, it is being found that EV market showed an increasing trend between 2011-2023 except the years 2019-2020 when COVID hit the market and we saw a sharp decline in the sales. Along with this, as we draw an average refrence line, the average EV sales turned out to be 10.7k. This refrence 
-
+1) The first key takeaway was that around 150k EV vehicles have been already in the market, out of which 77.6% EV vehicles were battery electric vehicles (BEV) whereas rest 22.4% were plug-in electric vehicles. Through this distribution, it can be said that maximum of the EV users prefers Battery electric vehicles which in turn helps to meet the desired motive behind the launch of EV, which is reduction in consumption of petroleum based vehicles.
+   
+2)  Upon examining the decadal trend of the number of EV in market, it is being found that EV market showed an increasing trend between 2011-2023 except the years 2019-2020 when COVID hit the market and we saw a sharp decline in the sales. As we draw an average refrence line, the average EV sales turned out to be 10.7k. This refrence line showcased that before 2018, the EV sales were always below the average whereas but after 2018, the sales stood above average with 2023 seeing the highest spike. However, we can see that although in the years 2019-2020 stood above average, these two years saw a decline because of covid but thereafter, the EV sales saw huge increase which we can attribute to the fact of shifting perspections of using more environmental friendly vehicles.
+   
 ![image](https://github.com/user-attachments/assets/32df448c-9882-441b-acf0-5af191ae5c0a)
+
+3)
 
 ![image](https://github.com/user-attachments/assets/1cde123a-b53e-4395-b364-7a8fa13a1627)
 
