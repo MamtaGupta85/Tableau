@@ -21,7 +21,7 @@ The dashboard aims to figure out how many total EV vehicles are already running 
 
 ![image](https://github.com/user-attachments/assets/1cde123a-b53e-4395-b364-7a8fa13a1627)
 
-4) 
+4) It is found that amongst the top 10 vehicles by companies, tesla is dominating the EV market.
 
 ![image](https://github.com/user-attachments/assets/3ba79b21-0c5b-439e-b2ff-1d6028d61e7f)
 
